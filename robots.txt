@@ -1,0 +1,6 @@
+# Permitir a todos los bots rastrear todo
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://devcodejs.com/sitemap.xml
