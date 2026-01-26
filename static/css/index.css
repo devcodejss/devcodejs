@@ -165,11 +165,11 @@
 }
 
 .impulse__logo {
-    max-width: 500px;
+    max-width: 300px;
     width: 100%;
     height: auto;
     margin: 0 auto;
-    filter: drop-shadow(0 0 0 #fff) drop-shadow(0 0 0 #fff) drop-shadow(0 0 0 #fff);
+    filter: brightness(0) invert(1);
 }
 
 .impulse__title {
